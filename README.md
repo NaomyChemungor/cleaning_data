@@ -2,7 +2,7 @@
 
 This repository contains Python code to clean a dataset related to data science job postings. The dataset is copied for cleaning to preserve the original data. The cleaning process includes converting data types, specifically converting integer columns to int32, float columns to float16, and categorical columns to appropriate ordered or standard categories. 
 
-Additionally, the code filters the dataset to include only entries where individuals have 10 or more years of experience at companies with at least 1000 employees.
+#### The goal is to efficiently store and prepare the training data for modeling.
 
 ## Usage
 
