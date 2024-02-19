@@ -1,4 +1,4 @@
-# cleaning_data
+# Cleaning Data
 
 This repository contains Python code to clean a dataset related to data science job postings. The dataset is copied for cleaning to preserve the original data. The cleaning process includes converting data types, specifically converting integer columns to int32, float columns to float16, and categorical columns to appropriate ordered or standard categories. 
 
